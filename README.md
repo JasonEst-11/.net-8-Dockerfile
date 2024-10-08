@@ -1,5 +1,5 @@
-# .NET 8 Dockerfile setup
-This is just the Dockerfile for a .net 8 API setup
+# .NET 8 web API Dockerfile setup
+This is just the Dockerfile for a .net 8 API setup (Can be useful when you want to build a microservice architecture a)
 
 ## How to create and containerize a new .net 8 API project
 *Note: This setup is done on a windows 10 machine. Any other OS might require some extra configurations or other resources.*
